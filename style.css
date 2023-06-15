@@ -1,0 +1,14 @@
+canvas {
+  border: 1px solid black;
+  background-color: #aee6f9;
+}
+.container {
+  position: relative;
+}
+
+#resetButton {
+  position: absolute;
+  left: 300px;
+  transform: translateX(-50%);
+  top: calc(100% + 10px);
+}
